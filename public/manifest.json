@@ -1,0 +1,23 @@
+{
+  "name": "Sans Map",
+  "short_name": "Sans Map",
+  "description": "A functional map application with a Black Forest dark UI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/pL4m25kL/IMG-0144.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/pL4m25kL/IMG-0144.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Sans Map",
+  "description": "A functional map application with a Black Forest dark UI.",
+  "requestFramePermissions": ["geolocation"]
+}
